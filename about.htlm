@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+.container{
+    padding:40px;
+    max-width:900px;
+    margin:auto;
+    background:white;
+    margin-top:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+h2{
+    color:#333;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:10px;
+    margin-top:40px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>About Our Shop</h1>
+</header>
+
+<div class="container">
+
+<h2>Who We Are</h2>
+<p>
+Welcome to <b>Dope Shop</b>, your destination for the dopest gadgets and accessories.
+We are passionate about bringing the latest technology and stylish gadgets to our
+customers at affordable prices.
+</p>
+
+<h2>Our Mission</h2>
+<p>
+Our mission is to make cool gadgets easily accessible to everyone.
+We believe technology should be fun, useful, and available to all.
+</p>
+
+<h2>Why Choose Us</h2>
+<ul>
+<li>High quality gadgets</li>
+<li>Affordable prices</li>
+<li>Fast customer support</li>
+<li>Latest tech products</li>
+</ul>
+
+<h2>Our Location</h2>
+<p>
+Ludhiana, Punjab, India
+</p>
+
+</div>
+
+<footer>
+<p>© 2026 Dope Shop</p>
+</footer>
+
+</body>
+</html>
